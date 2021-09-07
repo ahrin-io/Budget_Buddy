@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Comp380_BudgetBuddyApp</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Submit">Submit</string>
+    <string name="Username">Username</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="forgot_pass_button">Forgot Password?</string>
+    <string name="validation_code">Enter validation code to reset your password.</string>
+    <string name="send_new_vcode">Click here to send a new code</string>
+    <string name="enter_email">Enter your email address.</string>
+    <string name="new_password">New Password</string>
+    <string name="enter_new_pass">Enter your new password</string>
+</resources>
